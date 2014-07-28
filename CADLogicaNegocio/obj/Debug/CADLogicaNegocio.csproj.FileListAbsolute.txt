@@ -1,0 +1,7 @@
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\bin\Debug\CADLogicaNegocio.dll
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\bin\Debug\CADLogicaNegocio.pdb
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\obj\Debug\CADLogicaNegocio.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\obj\Debug\CADLogicaNegocio.dll
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\obj\Debug\CADLogicaNegocio.pdb
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\bin\Debug\CADDatos.dll
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADLogicaNegocio\bin\Debug\CADDatos.pdb

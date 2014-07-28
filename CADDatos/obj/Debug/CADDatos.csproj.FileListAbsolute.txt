@@ -1,0 +1,4 @@
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADDatos\bin\Debug\CADDatos.dll
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADDatos\bin\Debug\CADDatos.pdb
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADDatos\obj\Debug\CADDatos.dll
+c:\users\edwin\documents\visual studio 2013\Projects\SistemaWebFacturas\CADDatos\obj\Debug\CADDatos.pdb
